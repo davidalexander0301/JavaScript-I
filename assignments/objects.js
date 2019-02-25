@@ -27,6 +27,7 @@ const mitzi = {
   gender: "F"
 }
 
+
 const kennan = {
   id: 2,
   name: "Kennan",
